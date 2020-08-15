@@ -1,4 +1,5 @@
 **Amsterdam**
+
 **55 points, 96 solves**
 
 This challenge was split into two parts: the first generated a number that represented the flag as a sum of combinations. The second part used the number generated from part one and encoded it into a ternary string, whos 1s and 2s each represented either the operation 2(x-1) or 2(x+1). In addition, each digit also multiplied the number by two.
